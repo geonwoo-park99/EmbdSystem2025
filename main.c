@@ -5,7 +5,7 @@ import subprocess
 import time
 import random
 import math
-BTN1 = 102   #Home
+BTN1 = 102   
 BTN2 = 158   #Back
 BTN3 = 217   #Search
 BTN4 = 139   #Menu
