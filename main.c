@@ -6,7 +6,7 @@ import time
 import random
 import math
 BTN1 = 102   
-BTN2 = 158   #Back
+BTN2 = 158   
 BTN3 = 217   #Search
 BTN4 = 139   #Menu
 BTN5 = 115   #Vol.UP
